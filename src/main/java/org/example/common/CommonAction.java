@@ -15,5 +15,6 @@ public class CommonAction {
             driver = new ChromeDriver();
         }
         return driver;
+        
     }
 }
